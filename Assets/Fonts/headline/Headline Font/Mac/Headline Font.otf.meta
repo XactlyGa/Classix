@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4fba8b3f9b205c4409f40be6670f11df
+timeCreated: 1488214230
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Headline
+  fontNames:
+  - Headline
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

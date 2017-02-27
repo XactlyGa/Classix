@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: e69b542e4fd56e947b4e3630ac8cba4d
+timeCreated: 1488214233
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fyodor
+  fontNames:
+  - Fyodor
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 71606f52ff4554342b72bf425e90d295, type: 3}
+  - {fileID: 12800000, guid: 096b3882dc3b6554c89857f39fb114ff, type: 3}
+  - {fileID: 12800000, guid: 8082e137fef6b0b49bfa1d856a766b82, type: 3}
+  - {fileID: 12800000, guid: ce83f277e5ea26445b939764a6fe3df1, type: 3}
+  - {fileID: 12800000, guid: 3423d57afa773e044a4a66f79424979d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

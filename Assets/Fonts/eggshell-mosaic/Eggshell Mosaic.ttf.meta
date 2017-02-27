@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c179f69e51ba13e4f81915c74bf5b402
+timeCreated: 1488214233
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Eggshell Mosaic
+  fontNames:
+  - Eggshell Mosaic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

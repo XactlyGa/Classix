@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f3fb4b0bfeed5b3428a9f4aec0425787
+timeCreated: 1488214234
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aulyars
+  fontNames:
+  - Aulyars
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: da92dfb502338b04493e0ef36dbd2c67, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

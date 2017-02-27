@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 5f8d96adeb51cda4fb1c8ca36f58dd67
+timeCreated: 1488214231
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Escalope
+  fontNames:
+  - Escalope
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3640bda591749444792a622cda2a1254, type: 3}
+  - {fileID: 12800000, guid: 202d9de61c00509408eb89a403938702, type: 3}
+  - {fileID: 12800000, guid: 27c9de290d877d542b1d7600ce16dacf, type: 3}
+  - {fileID: 12800000, guid: 2a1d3b3c8c094db41aa2d4f999312549, type: 3}
+  - {fileID: 12800000, guid: 15dd871fa05ea2e4cabd1c3148f0ff1c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

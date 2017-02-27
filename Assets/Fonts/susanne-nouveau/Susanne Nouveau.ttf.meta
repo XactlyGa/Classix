@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 51d5b6b2ef08f0344abb7c6a07dff541
+timeCreated: 1488214231
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Susanne Nouveau
+  fontNames:
+  - Susanne Nouveau
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

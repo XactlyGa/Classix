@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6479bc703711e8743931c98a74d43256
+timeCreated: 1488214231
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stampy
+  fontNames:
+  - Stampy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

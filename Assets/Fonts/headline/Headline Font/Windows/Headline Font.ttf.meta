@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: c5b872c6cae175e4882a0a5718457f8b
+timeCreated: 1488214233
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Headline
+  fontNames:
+  - Headline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 78db7ef4bc2aa1e4087fdf7e4d871ec2, type: 3}
+  - {fileID: 12800000, guid: 4fba8b3f9b205c4409f40be6670f11df, type: 3}
+  - {fileID: 12800000, guid: 5f30ab3ffa895154b9ae23e972eed530, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

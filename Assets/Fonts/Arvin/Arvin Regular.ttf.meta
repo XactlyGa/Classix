@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6bd3b4ae273104645b1d1d75b2174278
+timeCreated: 1488214232
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arvin Regular
+  fontNames:
+  - Arvin Regular
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

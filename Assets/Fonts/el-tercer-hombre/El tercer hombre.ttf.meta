@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a0b3e5937a52a144192f4ab04a3a3ea3
+timeCreated: 1488214232
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: El tercer hombre
+  fontNames:
+  - El tercer hombre
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 82c1cd575b5c9b043ae44785917e23a8
+timeCreated: 1488214232
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Brotherina
+  fontNames:
+  - Brotherina
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
